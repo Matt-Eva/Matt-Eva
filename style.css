@@ -1,12 +1,42 @@
-body {
-    background: hsl(190, 60%, 70%);
-}
 
-#Intro {
+
+#intro {
     margin: 50px;
+    height: 266px;
+    display: flex;
+    font-family: Gill Sans;
 }
 
 #prof-pic {
     width: 200px;
     height: 266px;
+    margin-right: 50px;
+}
+
+#intro div {
+    height: 266px;
+}
+
+#intro h1 {
+    font-weight: normal;
+    font-size: 40px;
+}
+
+#intro p {
+    font-size: 30px;
+}
+
+#bar {
+    margin: 20px;
+    height: 40px;
+    background: hsl(190, 60%, 70%);
+    display: flex;
+    text-align: center;
+}
+
+#bar div{
+    margin: 10px 0px 0px 10px;
+    font-family: Gill Sans;
+    font-size: 20px;
+    flex: 1;
 }

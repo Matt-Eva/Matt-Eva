@@ -1,3 +1,12 @@
 body {
-    background: rgba(0,190,200);
+    background: hsl(190, 60%, 70%);
+}
+
+#Intro {
+    margin: 50px;
+}
+
+#prof-pic {
+    width: 200px;
+    height: 266px;
 }

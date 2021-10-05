@@ -11,9 +11,10 @@
     width: 200px;
     height: 266px;
     margin-right: 50px;
+    border-radius: 2px;
 }
 
-#intro div {
+#intro #bio{
     height: 266px;
 }
 
@@ -32,11 +33,25 @@
     background: hsl(190, 60%, 70%);
     display: flex;
     text-align: center;
+    border-radius: 2px;
 }
 
-#bar div{
+#bar div {
     margin: 10px 0px 0px 10px;
     font-family: Gill Sans;
     font-size: 20px;
+    width: 30px;
     flex: 1;
+    text-align: center;
+    transition: 500ms;
+}
+
+#bar div:hover {
+    transition: 500ms;
+    color: hsl(0,0%, 50%)
+}
+
+#content {
+    margin: 50px;
+    display: flex;
 }

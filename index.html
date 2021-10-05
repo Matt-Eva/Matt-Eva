@@ -4,7 +4,6 @@
     <head>
         <title>Matt Eva</title>
         <link rel='stylesheet' href='style.css'/>
-        <script src='script.js' type='text/javascript'></script>
     </head>
 
     <body>
@@ -12,9 +11,10 @@
         <div id='intro'>
             <img id='prof-pic' src="bedroom-prof-pic.jpg" alt='Profile Picture'/>
             <div id ='bio'>
-                <h1>Hi, I'm Matt Eva.</h1>
-                <p>I'm a software developer, writer, and editor.<br><br>
-                Language fluencies: Ruby, Python, JavaScript, CSS, HTML.</p>
+                <h1 id='head'>Hi, I'm Matt Eva.</h1>
+                <p id='description'>I'm a software developer, writer, and editor.<br><br>
+                    Language fluencies: Ruby, Python, JavaScript, CSS, HTML.
+                </p>
             </div>
         </div>
 
@@ -26,7 +26,8 @@
 
         <div id='content'>
             <div id='social-content'>
-                
+                <p><span>Width: <span id='width'></span></span></p>
+                <p><span>Height: <span id='height'></span></p>
             </div>
             <div id='dev-content'>
                 
@@ -35,7 +36,7 @@
 
             </div>
         </div>
-
+        <script src='script.js' type='text/javascript'></script>
     </body>
 
 </html>

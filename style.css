@@ -25,9 +25,11 @@ body {
     font-size: 40px;
 }
 
-#intro #description {
+.description {
     font-size: 30px;
 }
+
+
 
 #bar {
     margin: 20px;

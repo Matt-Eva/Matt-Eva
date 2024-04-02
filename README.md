@@ -39,7 +39,7 @@ There is so much I want to learn! Here are a few things I'm focused on learning 
 
 ## Tools and Technologies I Plan on Learning
 
-There's only so many things I can learn at a single time, but I have a long waitlist of topics, languages, and tools that I want to dive into!
+There's only so many things I can learn at a single time, but I have a long waitlist of topics, languages, and tools that I want to dive into! Here's what's currently at the top of the waitlist: 
 
 - Docker / Kubernetes
 - ScyllaDB

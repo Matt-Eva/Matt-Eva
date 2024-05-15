@@ -22,7 +22,7 @@ I've definitely hopped around quite a bit on my learning journey, but there are 
 
 ### Databases
 
-I'm a bit of a database nerd! I hopped on the NoSQL hype train when I was still learning to write basic HTML, CSS, and JavaScript, and have been deep diving into different database paradigms since. I do still love good ole' SQL though!
+I'm a bit of a database nerd! I was reading about NoSQl databases, horizontal scaling, and database sharding when I was still learning to write basic HTML, CSS, and JavaScript, and have been deep diving into different database paradigms since. The NoSQL space is fascinating, but I do still love good ole' SQL!
 
 - Relational Databases (SQL), Neo4j / Memgraph (Cypher), MongoDB, Cassandra (CQL)
 

@@ -1,52 +1,33 @@
 # Matt Eva
 
-Hello there! I'm Matt. I'm a software engineer and technical writer with a focus in web development. I like coding and writing about code!
+Hello there! I'm Matt. I'm a software engineer and technical writer - I like coding and writing about code!
 
-## Main Tools and Technologies
+## What I use
 
-These are the tools and technologies I've been using recently when building projects, and that I'm most familiar with.
+Here's a more or less comprehensive list of the languages and technologies that I have used in the past and currently use. 
 
-- JavaScript / TypeScript
-- Nodejs / Express
-- React / React-Router / Redux
-- CSS
-- Neo4j / Cypher
-- Git / GitHub
+### Programming languages
 
-## Familiar Tools and Technologies
+Go, JavaScript / TypeScript, Python, Ruby
 
-These are tools and technologies that I'm currently using in projects but am still learning more about, or have used in the past.
+### Frontend Frameworks / Tools
 
-- Python
-- Flask
-- Ruby
-- Ruby on Rails
-- SQL / PostgreSQL / SQLite / Relational Databases
-- MongoDB
-- Progressive Web Applications
+HTML, CSS, React, React-Router, Redux, Vue
 
-## Tools and Technologies I'm Learning
+### Backend Frameworks / Tools
 
-There is so much I want to learn! Here are a few things I'm focused on learning at present, and am starting to incorporate into projects.
+Gorilla, Express, Flask, Ruby on Rails
 
-- Java
-- Cassandra / CQL
-- Redis
-- Linux
-- Digital Ocean
-- System Administration
-- DevOps
+### Databases
 
-## Tools and Technologies I Plan on Learning
+I'm a bit of a database nerd! I hopped on the NoSQL hype train when I was still learning to write basic HTML, CSS, and JavaScript, and have been deep diving into different database paradigms since. I do still love good ole' SQL though!
 
-There's only so many things I can learn at a single time, but I have a long waitlist of topics, languages, and tools that I want to dive into! Here's what's currently at the top of the waitlist: 
+Relational Databases (SQL), Neo4j / Memgraph (Cypher), MongoDB, Cassandra (CQL)
 
-- Docker / Kubernetes
-- ScyllaDB
-- Terraform
-- PHP
-- C#
-- Go
-- Elixir
-- Rust
-- Kotlin / Swift (native mobile development)
+### Developer Tools
+
+Git, GitHub
+
+## What I'm Learning
+
+I'm currently learning Docker!

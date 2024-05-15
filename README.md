@@ -8,25 +8,25 @@ Here's a more or less comprehensive list of the languages and technologies that 
 
 ### Programming languages
 
-Go, JavaScript / TypeScript, Python, Ruby
+- Go, JavaScript / TypeScript, Python, Ruby
 
 ### Frontend Frameworks / Tools
 
-HTML, CSS, React, React-Router, Redux, Vue
+- HTML, CSS, React, React-Router, Redux, Vue
 
 ### Backend Frameworks / Tools
 
-Gorilla, Express, Flask, Ruby on Rails
+- Gorilla, Express, Flask, Ruby on Rails
 
 ### Databases
 
 I'm a bit of a database nerd! I hopped on the NoSQL hype train when I was still learning to write basic HTML, CSS, and JavaScript, and have been deep diving into different database paradigms since. I do still love good ole' SQL though!
 
-Relational Databases (SQL), Neo4j / Memgraph (Cypher), MongoDB, Cassandra (CQL)
+- Relational Databases (SQL), Neo4j / Memgraph (Cypher), MongoDB, Cassandra (CQL)
 
 ### Developer Tools
 
-Git, GitHub
+- Git, GitHub
 
 ## What I'm Learning
 

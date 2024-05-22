@@ -6,8 +6,6 @@ Hello there! I'm Matt. I'm a software engineer and technical writer - I like cod
 
 Here's a more or less comprehensive list of the languages and technologies that I have used in the past and currently use. 
 
-I've definitely hopped around quite a bit on my learning journey, but there are so many cool things to learn and build with! I like having at least a cursory understanding of languages, tools, and ecosystems so that I can pick the right tool for the job, and get quickly up to speed when working with a team. (Also learning is fun!)
-
 ### Programming languages
 
 - Go, JavaScript / TypeScript, Python, Ruby
@@ -22,9 +20,7 @@ I've definitely hopped around quite a bit on my learning journey, but there are 
 
 ### Databases
 
-I'm a bit of a database nerd! I was reading about NoSQL databases, horizontal scaling, and database sharding when I was still learning to write basic HTML, CSS, and JavaScript, and have been deep diving into different database paradigms since. The NoSQL space is fascinating, but I do still love good ole' SQL!
-
-- Relational Databases (SQL), Neo4j / Memgraph (Cypher), MongoDB, Cassandra (CQL)
+- Relational Databases (SQL), Neo4j (Cypher), MongoDB, Cassandra (CQL)
 
 ### Developer Tools
 

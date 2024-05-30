@@ -12,7 +12,7 @@ Here's a more or less comprehensive list of the languages and technologies that 
 
 ### Frontend Frameworks / Tools
 
-- HTML, CSS, React, React-Router, Redux, Vue
+- HTML, CSS, React, React-Router, Redux
 
 ### Backend Frameworks / Tools
 

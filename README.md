@@ -20,11 +20,11 @@ Here's a more or less comprehensive list of the languages and technologies that 
 
 ### Databases
 
-- Relational Databases (SQL), Neo4j (Cypher), MongoDB, Cassandra (CQL)
+- Relational Databases (SQL), Neo4j (Cypher), MongoDB
 
 ### Developer Tools
 
-- Git, GitHub
+- Git, GitHub, VSCode
 
 ## What I'm Learning
 

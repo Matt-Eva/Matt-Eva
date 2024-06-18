@@ -1,8 +1,8 @@
 # Matt Eva
 
-Hello there! I'm Matt. I'm a software engineer and technical writer - I like coding and writing about code!
+Hello there! I'm Matt. I'm a software engineer, technical writer, and teacher - I like coding, writing about code, and helping others learn and grow!
 
-## What I use
+## What I Use
 
 Here's a more or less comprehensive list of the languages and technologies that I have used in the past and currently use. 
 
@@ -12,11 +12,11 @@ Here's a more or less comprehensive list of the languages and technologies that 
 
 ### Frontend Frameworks / Tools
 
-- HTML, CSS, React, React-Router, Redux
+- HTML, CSS, Tailwind CSS, React, React-Router, Redux
 
 ### Backend Frameworks / Tools
 
-- Gorilla, Express, Flask, Ruby on Rails
+- Gorilla, Express, Flask, Sinatra, Ruby on Rails
 
 ### Databases
 
@@ -24,7 +24,7 @@ Here's a more or less comprehensive list of the languages and technologies that 
 
 ### Developer Tools
 
-- Git, GitHub, VSCode
+- Git, GitHub, Markdown, VSCode, Unix (Mac)
 
 ## What I'm Learning
 

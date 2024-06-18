@@ -16,7 +16,7 @@ Here's a more or less comprehensive list of the languages and technologies that 
 
 ### Backend Frameworks / Tools
 
-- Gorilla, Express, Flask, Sinatra, Ruby on Rails
+- Gorilla, Node.js, Express, Flask, Sinatra, Ruby on Rails
 
 ### Databases
 
@@ -28,4 +28,14 @@ Here's a more or less comprehensive list of the languages and technologies that 
 
 ## What I'm Learning
 
-I'm currently learning Docker!
+I'm always tinkering with things that are unfamiliar to me and pushing the boundaries of my knowledge. Learning is fun! It keeps things fresh and makes me a better engineer and resource. Here's what I'm diving into at the moment!
+
+- Go
+- Tailwind CSS
+- Docker
+- Linux
+- AWS
+- Java
+- C#
+- PHP
+

@@ -37,5 +37,4 @@ I'm always tinkering with things that are unfamiliar to me and pushing the bound
 - AWS
 - Java
 - C#
-- PHP
 

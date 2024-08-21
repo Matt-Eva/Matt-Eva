@@ -16,7 +16,7 @@ Here's a more or less comprehensive list of the languages and technologies that 
 
 ### Backend
 
-- Gorilla, Node.js, Express, Flask, Sinatra, Ruby on Rails, Sinatra, Socket.io.
+- Gorilla, Node.js, Express, Flask, Sinatra, Ruby on Rails, Socket.io.
 
 ### Databases
 

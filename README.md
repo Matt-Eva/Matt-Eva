@@ -12,11 +12,11 @@ Here's a more or less comprehensive list of the languages and technologies that 
 
 ### Frontend
 
-- HTML, CSS, Tailwind CSS, React, React-Router, Redux, Progressive Web Apps.
+- HTML, CSS, React, React-Router, Redux, Progressive Web Apps.
 
 ### Backend
 
-- Gorilla, Node.js, Express, Flask, Sinatra, Ruby on Rails, REST APIs, Socket.io.
+- Gorilla, Node.js, Express, Flask, Sinatra, Ruby on Rails, Sinatra, Socket.io.
 
 ### Databases
 

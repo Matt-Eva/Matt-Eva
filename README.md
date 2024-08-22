@@ -20,7 +20,7 @@ Here's a more or less comprehensive list of the languages and technologies that 
 
 ### Databases
 
-- Relational Databases (SQL), Neo4j, MongoDB, Cassandra.
+- Relational Databases (SQL), Neo4j (Cypher), MongoDB, Redis.
 
 ### Developer Tools
 

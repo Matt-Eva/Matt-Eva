@@ -1,46 +1,8 @@
 # Matt Eva
 
-Hello there! I'm Matt. I'm a software engineer, technical writer, and teacher - I like coding, writing about code, and helping others learn and grow!
+Hello there! I'm Matt. I'm a field service engineer, writer, software engineer, and former educator.
 
-## What I Use
+While I'm versed in a variety of technologies - JavaScript/TypeScript, Go, Python, MongoDB, etc. - I've recently been programming in the language and framework that started it all for me - Ruby on Rails. You can check out my <a href="https://github.com/Matt-Eva/freecreate-rails/tree/dev">current project here</a>.
 
-Here's a more or less comprehensive list of the languages and technologies that I have used in the past and currently use, as well as the design paradigms that I use and am familiar with. 
-
-### Programming languages
-
-- Go, JavaScript / TypeScript, Python, Ruby.
-
-### Frontend
-
-- HTML, CSS, React, React-Router, Redux, Progressive Web Apps.
-
-### Backend
-
-- Gorilla, Node.js, Express, Flask, Sinatra, Ruby on Rails, Socket.io.
-
-### Databases
-
-- Relational Databases (SQL), Neo4j (Cypher), MongoDB, Redis.
-
-### Developer Tools
-
-- Git, GitHub, Markdown, VSCode, Unix (Mac).
-
-### Paradigms / Architecture / Protocols
-
-- Object-Oriented Programming, REST APIs, CRUD actions, MVC Architecture, Single Page Applications, Client-Side Routing, Responsive / Mobile-First Design, Database Sharding, WebSockets, HTTP.
-
-### Topics of Interest 
-
-- Full Stack Development, System Architecture and Design, Scalability, Distributed Systems, Cloud Architecture, Databases, Data Modeling, Accessibility, User-Centered Design.
-
-## What I'm Learning
-
-I'm always tinkering with things that are unfamiliar to me and pushing the boundaries of my knowledge. Learning is fun! It keeps things fresh and makes me a better engineer and resource. Here's what I'm diving into at the moment!
-
-- Go
-- Docker
-- Redis
-- Linux
-- Java
+Outside programming, my interests include creating high quality technical educational materials and resources, writing (for fun!), teaching, playing music, wandering over hills and under trees, and contemplating how to make the world a better place. I'm always interested in new opportunities, so please don't hesistate to reach out!
 

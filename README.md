@@ -1,6 +1,6 @@
 # Matt Eva
 
-Hello there! I'm Matt. I'm a field service engineer, writer, software engineer, and former educator.
+Hello there! I'm Matt. I'm a field service engineer, writer, software developer, and former educator.
 
 While I'm versed in a variety of technologies - JavaScript/TypeScript, Go, Python, MongoDB, etc. - I've recently been programming in the language and framework that started it all for me - Ruby on Rails. You can check out my <a href="https://github.com/Matt-Eva/freecreate-rails/tree/dev">current project here</a>.
 

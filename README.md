@@ -8,7 +8,7 @@ Currently, I'm building in parallel using two seemingly polar paradigms - Ruby o
 
 I also still love to write and teach. As someone who is largely self-taught, I'm always looking to help demystify technical concepts and connect people with useful tools and ideas. For me, learning and teaching are two sides of the same coin - when I'm doing one, I'll want to do the other.
 
-When I'm not coding, writing, or working, you can find me playing music, wandering over hills and under trees, reading, and learning new things. I'm always interested in new opportunities and meeting new people, so I seem like someone you'd like to connect with please reach out!
+When I'm not coding, writing, or working, you can find me playing music, wandering over hills and under trees, reading, and learning new things. I'm always interested in new opportunities and meeting new people, so if I seem like someone you'd like to connect with please reach out!
 
 Happy coding! 
 
